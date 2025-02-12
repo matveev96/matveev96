@@ -15,13 +15,15 @@
 - 🚀 I love crafting clean, maintainable code and focusing on great user experience.  
   
 
-- 📚 Always learning! Currently diving deeper into **TypeScript**, **Jest** for testing, and improving my knowledge of **CSS-in-JS**.  
+- 📚 Always learning! Currently diving deeper into **TypeScript**, **React**, **Redux**.  
   
 
 - 🎨 I'm also passionate about design systems, UI/UX, and making interfaces both functional and beautiful.  
   
 
-- 🎮 In my free time, you can find me experimenting with new web technologies or playing around with personal projects.  
+- 🎮 In my free time, you can find me experimenting with new web technologies or playing around with personal projects.
+
+-  📍 Here you can see <a href="https://matveev96.github.io/Portfolio/" target="_blank">My Portfolio</a>  
   
 
 <br/>  
