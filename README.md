@@ -23,9 +23,6 @@
 
 - 🎮 In my free time, you can find me experimenting with new web technologies or playing around with personal projects.
 
--  📍 Here you can see <a href="https://matveev96.github.io/Portfolio/" target="_blank">My Portfolio</a>  
-  
-
 <br/>  
 
 ## Connect with me  
